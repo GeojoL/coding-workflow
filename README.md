@@ -6,3 +6,16 @@ The workflow I use will be
 
 and this is the first step of me, to prepare my working station and ide
 
+
+
+
+
+
+Here are sth. I am digging
+
+
+1 coc.nvim
+it didn't work in nvim/vim-plug
+
+2 git push 
+can't push without the application buttom
