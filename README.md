@@ -1,4 +1,4 @@
-This is a workflow for new cats who what to digging more coding techniques.
+This is a workflow for new cats who want to digging more coding techniques.
 
 The workflow I use will be
 
